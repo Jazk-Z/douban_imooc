@@ -1,0 +1,27 @@
+{
+  "name": "douban_imooc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "koa": "^2.5.2",
+    "koa-views": "^6.1.4",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "NODE_ENV=development nodemon ./server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Jazk-Z@github.com/Jazk-Z/douban_imooc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jazk-Z/douban_imooc/issues"
+  },
+  "homepage": "https://github.com/Jazk-Z/douban_imooc#readme"
+}
